@@ -1,0 +1,15 @@
+#caixa3 {
+  text-align: center;
+}
+
+#titulo2 {
+  text-align: center;
+  padding: 30px;
+  margin: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#texto2 {
+  text-align: justify;
+  padding: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

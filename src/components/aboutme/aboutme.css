@@ -1,0 +1,16 @@
+#titulo {
+  text-align: center;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 20px;
+}
+
+#texto {
+  text-align: justify;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10px 50px;
+}
+#marca {
+  font-style: italic;
+}

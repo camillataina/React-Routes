@@ -1,0 +1,18 @@
+#colunas {
+  -webkit-column-count: 2;
+  -webkit-column-gap: 40px;
+  -webkit-column-span: all;
+  font-size: 15px;
+  padding-bottom: 15px;
+  font-weight: bold;
+  text-align: center;
+  font-family: cursive;
+}
+
+#titulo1 {
+  text-align: center;
+  margin: 10px;
+  color: black;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
